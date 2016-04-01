@@ -1,0 +1,11 @@
+c:\users\boyet1\documents\visual studio 2015\Projects\GWAcalc\GWAcalc\bin\Debug\GWAcalc.exe.config
+c:\users\boyet1\documents\visual studio 2015\Projects\GWAcalc\GWAcalc\bin\Debug\GWAcalc.exe
+c:\users\boyet1\documents\visual studio 2015\Projects\GWAcalc\GWAcalc\bin\Debug\GWAcalc.pdb
+c:\users\boyet1\documents\visual studio 2015\Projects\GWAcalc\GWAcalc\bin\Debug\GWAcalc.xml
+c:\users\boyet1\documents\visual studio 2015\Projects\GWAcalc\GWAcalc\obj\Debug\GWAcalc.Form1.resources
+c:\users\boyet1\documents\visual studio 2015\Projects\GWAcalc\GWAcalc\obj\Debug\GWAcalc.Resources.resources
+c:\users\boyet1\documents\visual studio 2015\Projects\GWAcalc\GWAcalc\obj\Debug\GWAcalc.vbproj.GenerateResource.Cache
+c:\users\boyet1\documents\visual studio 2015\Projects\GWAcalc\GWAcalc\obj\Debug\GWAcalc.exe
+c:\users\boyet1\documents\visual studio 2015\Projects\GWAcalc\GWAcalc\obj\Debug\GWAcalc.xml
+c:\users\boyet1\documents\visual studio 2015\Projects\GWAcalc\GWAcalc\obj\Debug\GWAcalc.pdb
+c:\users\boyet1\documents\visual studio 2015\Projects\GWAcalc\GWAcalc\obj\Debug\GWAcalc.vbprojResolveAssemblyReference.cache
